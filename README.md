@@ -50,3 +50,11 @@ The Birdie project stages (early preliminary estimations):
 4. Data link, key exchanges, scrambling between linux boxes over GSM voice channel Q1 2014 - Q2 2014;
 4. Hardware spec & design Q1 2014 - Q2 2014;
 5. HW prototype Q2 2014 - Q3 - 2014;
+
+
+Funding:
+
+Indiegogo funding campaign:
+
+http://www.indiegogo.com/projects/the-birdie-project/x/5096223
+

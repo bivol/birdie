@@ -11,15 +11,15 @@ There is a limited choice of generally expensive devices (cryptophones) and apps
 
 The Birdie goal: Secure voice for the masses
 
-Implementing scrambled voice over any carrier: GSM/UMTS/LTE (2G to 4G), PSTN (landlines), VoIP (Skype, Viber, etc.);
-Uses the voice channel, no data plan required;
-The (de)scrambling device looks like a classic hands-free (box with mic/earphones and 3.5 mm TRRS phone connector or a bluetooth headset) ;
-Phone/SIM card independent - less trackable; 
-Cheap: 30 - 50 $ hardware for the device;
-Тransparеnt to the mobile voice codecs;
-Open source software:
-	- no NSA backdoors;
-	- community-supported;
+- Implementing scrambled voice over any carrier: GSM/UMTS/LTE (2G to 4G), PSTN (landlines), VoIP (Skype, Viber, etc.);
+- Uses the voice channel, no data plan required;
+- The (de)scrambling device looks like a classic hands-free (box with mic/earphones and 3.5 mm TRRS phone connector or a bluetooth headset) ;
+- Phone/SIM card independent - less trackable; 
+- Cheap: 30 - 50 $ hardware for the device;
+- Тransparеnt to the mobile voice codecs;
+- Open source software:
+- 	- no NSA backdoors;
+- 	- community-supported;
 
 The Birdie concept:
 
